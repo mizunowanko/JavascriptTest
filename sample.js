@@ -5,5 +5,5 @@
 
 var ops = 3;
 function aaa (){
-
+    window.alert("Hello")
 }
